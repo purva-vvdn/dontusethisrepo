@@ -1,1 +1,3 @@
-r
+*** Settings ***
+Library    OperatingSystem
+Library    Collections
