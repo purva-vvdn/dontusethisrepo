@@ -1,3 +1,3 @@
 *** Settings ***
-Library    OperatingSyste
+Library    Op
 Library    Collections
