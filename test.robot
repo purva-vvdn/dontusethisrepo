@@ -1,3 +1,3 @@
 *** Settings ***
-Library O
+Library 
 Library    Collections
